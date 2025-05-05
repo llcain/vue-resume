@@ -56,8 +56,8 @@ main.max-w-3xl.mx-auto.p-6.font-sans.text-gray-800
         a(href="https://your-live-site.com", target="_blank") Live Site
         |  | 📁 
         a(href="https://github.com/your-username/vue-resume", target="_blank") GitHub
-      h3.text-xl.font-medium Project Name
-      p.text-sm.text-gray-600 Short description of what this project does or solves.
+      h3.text-xl.font-medium Portfolio Website
+      p.text-sm.text-gray-600 [Frontend + HTML + CSS3 + JavaScript + Sass] Portfolio Website displays HTML, CSS3, JavaScript, and Sass Projects I designed and built.
       p.mt-1
         | 🔗 
         a(href="https://project-link.com", target="_blank") Live Site
